@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\bin\Debug\net8.0-windows\A minha aplicação.exe
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\bin\Debug\net8.0-windows\A minha aplicação.deps.json
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\bin\Debug\net8.0-windows\A minha aplicação.runtimeconfig.json
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\bin\Debug\net8.0-windows\A minha aplicação.dll
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\bin\Debug\net8.0-windows\A minha aplicação.pdb
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A_minha_aplicação.Form1.resources
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.AssemblyInfo.cs
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.dll
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\refint\A minha aplicação.dll
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.pdb
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\A minha aplicação.genruntimeconfig.cache
+C:\Users\andre\source\repos\A minha aplicação\A minha aplicação\obj\Debug\net8.0-windows\ref\A minha aplicação.dll
